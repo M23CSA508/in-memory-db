@@ -24,6 +24,7 @@ Allocates and manages memory for data storage.
 Implements memory-efficient data structures (e.g., hash tables, B-trees) to optimize data access.
 Handles memory de-allocation and garbage collection to prevent memory leaks.
 
+```
 +-------------------+               +---------------------+
 |   Database Core   |               |    Metadata Layer   |
 |-------------------|               |---------------------|
@@ -37,6 +38,7 @@ V
 |---------------------|
 | DatabaseTest.java   |
 +---------------------+
+```
 
 ### Build and Run
 Clone the Repository:
