@@ -59,6 +59,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 ### Contact
 For any questions, please reach out to:
 
-Email: [Suvodip Som] (mailto:m23csa533@iitj.ac.in), [Swapnil Adak](mailto:m23csa534@iitj.ac.in) and [Anindya Bandopadhyay](mailto:m23csa508@iitj.ac.in)
+Email: [Suvodip Som](mailto:m23csa533@iitj.ac.in), [Swapnil Adak](mailto:m23csa534@iitj.ac.in) and [Anindya Bandopadhyay](mailto:m23csa508@iitj.ac.in)
 
 GitHub: [GitHub Repository](https://github.com/M23CSA508/in-memory-db.git)
