@@ -8,11 +8,13 @@ To achieve this high performance, MMDBs employ various optimization techniques t
 - *High-Speed Access*: MMDBs store data directly in main memory, eliminating the need for disk I/O. This results in significantly faster read and write operations, making them ideal for applications that require real-time data processing.
 - *Data Persistence*: While MMDBs primarily reside in primary memory.
 - *Data Structures*: MMDBs often utilize specialized data structures optimized for in-memory storage and retrieval, such as hash tables, B-trees, and various indexing techniques.
+
 ### Core Operations:
 - *Insert*: Adds new data records to the database.
 - *Select*: Retrieves specific data records based on search criteria.
 - *Update*: Modifies existing data records.
 - *Remove*: Deletes data records from the database.
+
 By leveraging these features and operations, MMDBs provide a powerful platform for applications that demand high performance and low latency data access.
 
 ## Technologies Used
